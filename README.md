@@ -1,6 +1,6 @@
 # 🛠 WEBGYVER - 화상상담 수리 서비스
 
-![Webgyver_font](https://user-images.githubusercontent.com/79851833/220332811-8d2904e1-d2f8-4e29-bd43-f168583fef76.png)
+<img width="100%" src="./README_assets/Webgyver_font.png"/>
 
 ### WEBGYVER 고객(모바일 화면) : [Webgyver 고객 바로가기](https://webgyver.site/)
 
@@ -9,6 +9,7 @@
 </br>
 
 ### WEBGYVER QR
+
 <p align="center">
 <img width="30%" src="https://user-images.githubusercontent.com/79851833/220333034-fc6b8125-7df2-4bb7-b3b6-99306289c6a4.png"/>
 </p>
@@ -19,7 +20,7 @@
 
 ## 🏃‍♂️ 프로젝트 진행 기간
 
-2023.01.09(월) ~ 2023.02.16(금) (39일간 진행) 
+2023.01.09(월) ~ 2023.02.16(금) (39일간 진행)
 SSAFY 8기 2학기 공통프로젝트 - WEBGYVER
 
 </br>
@@ -34,7 +35,7 @@ SSAFY 8기 2학기 공통프로젝트 - WEBGYVER
 
 ## 💡 WEBGYVER - 개요
 
-*- 출장 부르기 전에 잠깐! 전문가와 먼저 상담하세요. -*  
+_- 출장 부르기 전에 잠깐! 전문가와 먼저 상담하세요. -_
 
 Webgyver는 <span style="color:#1976D2">Web</span>site Mac<span style="color:#1976D2">gyver</span>의 약자입니다.  
 WEBGYVER는 생활 고장을 원하는 시간에 전문가와 함께 진단하고 간단한 해결책을 제시받을 수 있는 실시간 화상상담 기능을 제공하는 웹서비스입니다.
@@ -48,69 +49,69 @@ WEBGYVER는 생활 고장을 원하는 시간에 전문가와 함께 진단하�
 ---
 
 - ### 예약상담
-  
+
   - 원하는 날짜와 원하는 시간에 상담받길 원할 때
-  
+
   - 또는 업체들을 살펴보고 싶을 때 선택해주세요.
-  
+
   - 그러면 해당 분야에 등록되어있는 업체들의 상세 정보와 상담 가능 시간을 확인할 수 있습니다.
-  
+
   - 예약을 등록하면, 5분 내로 예약 확정, 취소 안내를 문자로 받게 됩니다.
-  
+
   - 이후, 예약한 시간이 되면 화상 상담에 입장해주세요.
-    
+
     <br/>
 
 - ### 바로상담
-  
+
   - 지금 당장 상담받길 원한다면 선택해주세요.
-  
+
   - 저희 Webgyber는 실시간 매칭 시스템을 갖추고 있습니다.
-  
+
   - 상담을 등록하면, 매칭 화면에서 대기 중인 전문가가 몇 명인지 알 수 있고.
-  
+
   - 전문가가 해당 상담을 수락하면 바로 화상상담으로 연결됩니다.
-  
+
     <br/>
 
 - ### 화상상담
-  
+
   - 고객과 전문가는 서로 화상 상담을 진행 할 수 있습니다.
-  
+
   - 고객은 생활 고장을 촬영하고, 전문가는 바로 확인 할 수 있습니다.
-  
+
   - 상담 진행 중에 방문 수리가 필요하다고 생각되면, 고객은 방문 수리를 요청할 수 있습니다.
-  
+
   - 전문가와 일정을 조율하고 바로 방문 예약을 확정해보세요.
-    
+
     <br/>
 
 - ### 자동 결제
-  
+
   - 회원가입 시, 등록된 카드로 간단하게 상담료를 결제할 수 있습니다.
-  
+
   - Webgyver 정책상, 결제는 예약이 확정된 시기에 부과됩니다.
-    
+
     <br/>
 
 - ### 리뷰 작성
-  
+
   - 상담 받은 전문가에 대한 리뷰와 별점를 남길 수 있습니다.
-  
+
   - 작성된 리뷰와 별점은 전문가 판단에 사용됩니다.
-  
+
   - 작성한 리뷰는 전문가 상세 정보에 노출되고.
-  
+
   - 내 정보에서 삭제하거나 수정할 수 있습니다.
-    
+
     <br/>
 
 - ### 수리 사례 등록
-  
+
   - 전문가는 수리 사례를 등록할 수 있습니다.
-  
+
   - 수리 실력을 뽐내고 고객이 확인 할 수 있게 해주세요!
-    
+
     <br/>
 
 ## ✔ 주요 기술
@@ -138,7 +139,7 @@ WEBGYVER는 생활 고장을 원하는 시간에 전문가와 함께 진단하�
 - MUI 5.11.4
 - Eslint 8.31.0
 - WebRTC
-- Socket 
+- Socket
 
 **CI/CD**
 
@@ -281,7 +282,7 @@ webgyber-frontend
   - 정해진 commit style에 맞춰 커밋 기록 관리
 - JIRA
   - 매주 목표량을 설정하여 Sprint 진행
-  - 업무의 할당량을 정하여 Story Point를 설정하고, In-Progress -> Done 순으로 작업  
+  - 업무의 할당량을 정하여 Story Point를 설정하고, In-Progress -> Done 순으로 작업
 - 회의
   - 아침회의 진행, 전날 목표 달성량과 당일 할 업무 브리핑
   - 오류나 협업이 필요한 일이라면 빠른 mattermost를 통해 관련 내용을 전달하고 상의
@@ -302,14 +303,15 @@ webgyber-frontend
 ![역할_분배](https://user-images.githubusercontent.com/79851833/220334055-79f855ff-032e-49a5-9783-7f9863b596b0.png)
 
 ## Contact Us
-| 성명 | 깃허브아이디 | 기술스택 |
-| --- | --- | --- |
-| [김동준](https://github.com/Dev-Jun125) | Dev-Jun125 | JAVA / SpringBoot |
-| [간호성](https://github.com/ghs93) |  ghs93 | JAVA / SpringBoot |
-| [박일규](https://github.com/repeater1384) | repeater1384 | JAVA / SpringBoot |
-| [임희상](https://github.com/hslim9400) | hslim9400 | SpringBoot / React |
-| [전동인](https://github.com/qorzi) | qorzi | React + Recoil |
-| [허윤회](https://github.com/YoonHwe) | YoonHwe | Vue / React |
+
+| 성명                                      | 깃허브아이디 | 기술스택           |
+| ----------------------------------------- | ------------ | ------------------ |
+| [김동준](https://github.com/Dev-Jun125)   | Dev-Jun125   | JAVA / SpringBoot  |
+| [간호성](https://github.com/ghs93)        | ghs93        | JAVA / SpringBoot  |
+| [박일규](https://github.com/repeater1384) | repeater1384 | JAVA / SpringBoot  |
+| [임희상](https://github.com/hslim9400)    | hslim9400    | SpringBoot / React |
+| [전동인](https://github.com/qorzi)        | qorzi        | React + Recoil     |
+| [허윤회](https://github.com/YoonHwe)      | YoonHwe      | Vue / React        |
 
 ## ✔ 프로젝트 산출물
 
@@ -324,7 +326,7 @@ webgyber-frontend
 - [ERD](https://www.notion.so/ERD-3c03afd36620423b9972b25e351d8faa?pvs=4)
 
 - [API](https://ethereal-cherry-328.notion.site/API-fb29c5d201474a659d758f7c584ea648)
-  
+
   ## ✔ 프로젝트 결과물
 
 - [포팅메뉴얼](https://www.notion.so/f889c988bc3c498b845f862d84312278?pvs=4)
@@ -348,8 +350,8 @@ webgyber-frontend
 - 올바른 카드 정보여야 합니다.
 
 <p align="left">
-<img width="30%" src="/uploads/1-signup.gif"/>
-<img width="30%" src="/uploads/1-signup2.gif"/>
+<img width="30%" src="./README_assets/1-signup.gif"/>
+<img width="30%" src="./README_assets/1-signup2.gif"/>
 </p>
 
 <br>
@@ -360,7 +362,7 @@ webgyber-frontend
 - 아이디는 전문가 아이디와 중복될 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/2-login.gif"/>
+<img width="30%" src="./README_assets/2-login.gif"/>
 </p>
 
 <br>
@@ -371,7 +373,7 @@ webgyber-frontend
 - 최하단부에 전문가용 페이지로 이동할 수 있는 버튼이 있습니다. (PC에서 이용해주세요.)
 
 <p align="left">
-<img width="30%" src="/uploads/3-mainpage.gif"/>
+<img width="30%" src="./README_assets/3-mainpage.gif"/>
 </p>
 
 <br>
@@ -387,9 +389,9 @@ webgyber-frontend
 - 5분 이내에 예약 확정, 취소 문자를 받을 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/4-reservation.gif"/>
-<img width="30%" src="/uploads/4-reservation2.gif"/>
-<img width="30%" src="/uploads/4-reservation3.gif"/>
+<img width="30%" src="./README_assets/4-reservation.gif"/>
+<img width="30%" src="./README_assets/4-reservation2.gif"/>
+<img width="30%" src="./README_assets/4-reservation3.gif"/>
 </p>
 
 ### 바로상담
@@ -403,7 +405,7 @@ webgyber-frontend
 - 화상 상담이 끝나면 리뷰를 입력할 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/5-direct.gif"/>
+<img width="30%" src="./README_assets/5-direct.gif"/>
 </p>
 
 <br>
@@ -414,7 +416,7 @@ webgyber-frontend
 - 별점을 매길 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/6-review.gif"/>
+<img width="30%" src="./README_assets/6-review.gif"/>
 </p>
 
 <br>
@@ -425,7 +427,7 @@ webgyber-frontend
 - 작성한 리뷰를 확인하고 수정하거나 삭제할 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/7-mypage.gif"/>
+<img width="30%" src="./README_assets/7-mypage.gif"/>
 </p>
 
 <br>
@@ -437,8 +439,8 @@ webgyber-frontend
 - 진행중인 화상상담에 입장할 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/8-usagehistory.gif"/>
-<img width="30%" src="/uploads/8-usagehistory2.gif"/>
+<img width="30%" src="./README_assets/8-usagehistory.gif"/>
+<img width="30%" src="./README_assets/8-usagehistory2.gif"/>
 </p>
 
 <br>
@@ -455,8 +457,8 @@ webgyber-frontend
 - 처음 가입 시, 상담가능시간을 설정해야 합니다.
 
 <p align="left">
-<img width="80%" src="/uploads/10-login.gif"/>
-<img width="80%" src="/uploads/11-signup.gif"/>
+<img width="80%" src="./README_assets/10-login.gif"/>
+<img width="80%" src="./README_assets/11-signup.gif"/>
 </p>
 
 <br>
@@ -469,7 +471,7 @@ webgyber-frontend
 - 오늘의 일정을 확인할 수 있습니다.
 
 <p align="left">
-<img width="80%" src="/uploads/12-schedule.gif"/>
+<img width="80%" src="./README_assets/12-schedule.gif"/>
 </p>
 
 <br>
@@ -479,7 +481,7 @@ webgyber-frontend
 - 일정을 일별로 확인할 수 있습니다.
 
 <p align="left">
-<img width="80%" src="/uploads/13-history.gif"/>
+<img width="80%" src="./README_assets/13-history.gif"/>
 </p>
 
 <br>
@@ -491,7 +493,7 @@ webgyber-frontend
 - 전문가 상세페이지에 나타납니다.
 
 <p align="left">
-<img width="80%" src="/uploads/14-review.gif"/>
+<img width="80%" src="./README_assets/14-review.gif"/>
 </p>
 
 <br>
@@ -502,11 +504,10 @@ webgyber-frontend
 - 전문가 상세페이지에 나타납니다.
 
 <p align="left">
-<img width="80%" src="/uploads/15-example.gif"/>
+<img width="80%" src="./README_assets/15-example.gif"/>
 </p>
 
 <br>
-
 
 ### 내 정보
 
@@ -516,8 +517,8 @@ webgyber-frontend
 - 전문가 상세페이지에 나타납니다.
 
 <p align="left">
-<img width="80%" src="/uploads/16-mypage.gif"/>
-<img width="80%" src="/uploads/16-mypage2.gif"/>
+<img width="80%" src="./README_assets/16-mypage.gif"/>
+<img width="80%" src="./README_assets/16-mypage2.gif"/>
 </p>
 
 <br>
@@ -529,7 +530,7 @@ webgyber-frontend
 - 수락 시, 화상통화 화면으로 이동합니다.
 
 <p align="left">
-<img width="80%" src="/uploads/17-realtime.gif"/>
+<img width="80%" src="./README_assets/17-realtime.gif"/>
 </p>
 
 <br>
